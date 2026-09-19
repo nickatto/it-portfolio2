@@ -1,6 +1,6 @@
 # Nicholas Voronetskis IT Portfolio
 
-Live website: https://nickatto.github.io/it-portfolio/
+Live website: https://nickatto.github.io/it-portfolio2/
 Stable static version of the portfolio.
 
 Key decisions:
